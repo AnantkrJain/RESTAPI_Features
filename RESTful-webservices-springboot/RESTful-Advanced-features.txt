@@ -1,0 +1,15 @@
+Here I have also covered basics of advanced topics in RESTful API -
+
+1. Internationalization
+
+2. Content Negotiation
+
+3. Monitoring
+
+4. Documentation
+
+5. Altering 
+
+6. Versioning
+
+7. Security
